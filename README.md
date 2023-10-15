@@ -1,6 +1,4 @@
-<h2>Полная версия документации:<h4> https://docs.google.com/document/d/1cTvRZqoBMul9KiySYRBrT6zVdRq5sgXKJR_5NnBiLgA/edit?usp=sharing</h4></h2>
-
-
+<h2>Полная версия документации: [тут](https://docs.google.com/document/d/1cTvRZqoBMul9KiySYRBrT6zVdRq5sgXKJR_5NnBiLgA/edit?usp=sharing)</h2>
 API testing with swagger at
 https://send-request.me/
 
