@@ -1,4 +1,4 @@
-Полная версия документации:<a href="https://docs.google.com/document/d/1cTvRZqoBMul9KiySYRBrT6zVdRq5sgXKJR_5NnBiLgA/edit?usp=sharing/">тут</a><br>
+Полная версия документации: <a href="https://docs.google.com/document/d/1cTvRZqoBMul9KiySYRBrT6zVdRq5sgXKJR_5NnBiLgA/edit?usp=sharing/"> тут</a><br>
 
 ```API testing with swagger at```
 https://send-request.me/
