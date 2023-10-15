@@ -1,5 +1,6 @@
 <h2>Полная версия документации:</h2>[тут](https://docs.google.com/document/d/1cTvRZqoBMul9KiySYRBrT6zVdRq5sgXKJR_5NnBiLgA/edit?usp=sharing/)
 <!--       [GitHub Pages](https://pages.github.com/) -->
+[GitHub Pages](https://pages.github.com/)
 API testing with swagger at
 https://send-request.me/
 
