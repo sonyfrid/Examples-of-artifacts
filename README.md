@@ -1,3 +1,6 @@
+<h2>Full list of documents:</h2> 
+https://docs.google.com/document/d/1cTvRZqoBMul9KiySYRBrT6zVdRq5sgXKJR_5NnBiLgA/edit?usp=sharing
+
 API testing with swagger at
 https://send-request.me/
 
