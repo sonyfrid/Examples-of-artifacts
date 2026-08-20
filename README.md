@@ -1,10 +1,12 @@
-#- Полная версия документации: <a href="https://docs.google.com/document/d/1cTvRZqoBMul9KiySYRBrT6zVdRq5sgXKJR_5NnBiLgA/edit?usp=sharing/"> тут</a><br>
+---
+- Полная версия документации: <a href="https://docs.google.com/document/d/1cTvRZqoBMul9KiySYRBrT6zVdRq5sgXKJR_5NnBiLgA/edit?usp=sharing/"> тут</a><br>
 
 - Сваггер:
 https://send-request.me/
 
 - Ссылка на тестирование API с файлами из postman:
 https://github.com/sonyfrid/testAPI
+
 ---
 
 <h2>Примеры тест-кейсов:</h2> 
