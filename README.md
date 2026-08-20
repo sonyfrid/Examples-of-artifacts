@@ -5,7 +5,7 @@ https://send-request.me/
 
 - Ссылка на тестирование API с файлами из postman:
 https://github.com/sonyfrid/testAPI
-
+---
 
 <h2>Примеры тест-кейсов:</h2> 
 
